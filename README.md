@@ -6,4 +6,4 @@ bdser博客
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 ## 2023
 - [bybit-register](2023/2023-bybit-register.md)
-- [usdt-pay](2023-usdt-pay.md)
+- [usdt-pay](2023/2023-usdt-pay.md)
