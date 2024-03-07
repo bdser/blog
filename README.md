@@ -1,7 +1,7 @@
 Table of Contents
 =================
 
-* - [2023](#2023)
+* [2023](#2023)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 ## 2023
